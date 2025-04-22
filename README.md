@@ -1,2 +1,2 @@
-# priyanshu-s-repository
+# priyanshu-repository
 This is my first Git Repository.
